@@ -1,0 +1,6 @@
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\Intro\Loops\bin\Debug\Loops.exe.config
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\Intro\Loops\bin\Debug\Loops.exe
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\Intro\Loops\bin\Debug\Loops.pdb
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\Intro\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\Intro\Loops\obj\Debug\Loops.exe
+C:\Users\asus.LAPTOP-SMDU8F43\source\repos\Intro\Loops\obj\Debug\Loops.pdb
